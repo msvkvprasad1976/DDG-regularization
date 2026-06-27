@@ -3,8 +3,8 @@
 Companion code for the paper:
 
 > **Discrete Differential Geometry as a Regularizer for Deep Learning on Manifold-Valued Data**
-> Dr. Bomma Rama Krishna
-> Department of Artificial Intelligence and Machine Learning
+> Dr. M.S.V.K.V.PRASAD
+> Department of CIVIL ENGINEERING
 > Swarnandhra College of Engineering and Technology (Autonomous)
 
 ---
